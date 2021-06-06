@@ -15,7 +15,7 @@ class MainClass1{
         // rotate(angle);
         rectMode(CENTER);
         noStroke();
-        fill(188,67,67);
+        fill(188,57,49);
         rect(0,0,this.width, this.height);
         pop();
     }
